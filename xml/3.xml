@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rozkład_jazdy miasto="Kraków" data_generacji="2025-10-26">
+<rozklad_jazdy miasto="Kraków" data_generacji="2025-10-26">
 
     <linia numer="503" typ="autobusowy">
         <nazwa_trasy kierunek="Nowa Huta" status="aktywna">Trasa Główna Północ-Wschód</nazwa_trasy>
@@ -17,4 +17,4 @@
         <nazwa_trasy kierunek="Krowodrza Górka" status="ograniczona">Obsługa nocna</nazwa_trasy>
     </linia>
     
-</rozkład_jazdy>
+</rozklad_jazdy>
