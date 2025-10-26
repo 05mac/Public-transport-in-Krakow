@@ -2,6 +2,6 @@
 
 ## TEAM
 
-1.Michał Motor 05mac 3,4 <br> 
-1.Patryk Rolka rols0n 5,6 <br>
-1.Bartosz Łabaj Barlab123 1,2 <br>  
+1. Michał Motor 05mac 3,4 <br> 
+2. Patryk Rolka rols0n 5,6 <br>
+3. Bartosz Łabaj Barlab123 1,2 <br>  
